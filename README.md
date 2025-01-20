@@ -11,3 +11,12 @@ docker build -t rabbitmq-with-delay .
 ```bash
 docker compose up -d
 ```
+
+# Access RabbitMQ Management
+
+```bash
+http://localhost:15672
+
+user: admin
+password: admin
+```
