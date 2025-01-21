@@ -3,7 +3,7 @@ RabbitMQ with Delayed Message Exchange
 # Build Image
 
 ```bash
-docker build -t rabbitmq-with-delay .
+docker build -t username-docker/rabbitmq-with-delay .
 ```
 
 # Run Container
